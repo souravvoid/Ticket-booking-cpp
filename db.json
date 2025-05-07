@@ -1,0 +1,18 @@
+[
+    {
+        "destination": "Delhi",
+        "name": "PunjabMale",
+        "seats": [
+            [
+                {
+                    "aadharCard": "1239786t89417t",
+                    "name": "lovepreet",
+                    "userId": "lp123"
+                }
+            ]
+        ],
+        "source": "Amritsar",
+        "time": 1746512644,
+        "vehicleId": "123"
+    }
+]
